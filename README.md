@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alyson Bergantini</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Developer FullStack Junior from Brazil</h3>
 
 - 🔭 I’m currently working on **i4pro**
+
+- 👨‍💻 I'm currently open to **freelance**
 
 - 🌱 I’m currently learning **React, NodeJS, Typescript, javascript, SQL**
 
