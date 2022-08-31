@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **i4pro**
 
-- 👨‍💻 I'm currently open to **freelance**
+- 👨‍💻 I'm currently open to **freelance and projects**
 
 - 🌱 I’m currently learning **React, NodeJS, Typescript, javascript, SQL**
 
