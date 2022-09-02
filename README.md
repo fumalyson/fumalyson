@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alyson Bergantini</h1>
-<h3 align="center">Developer FullStack Junior from Brazil</h3>
+<h3 align="center">Developer Mobiele|FullStack Junior from Brazil</h3>
 
-- 🔭 I’m currently working on **i4pro**
+- 🔭 I’m currently working at **i4pro**
 
 - 👨‍💻 I'm currently open to **freelance and projects**
 
-- 🌱 I’m currently learning **React, NodeJS, Typescript, javascript, SQL**
+- 🌱 I’m currently learning **Flutter, React, NodeJS, Typescript, Javascript, SQL**
 
 - 👨‍💻 All of my projects are available at [github.com/fumalyson](github.com/fumalyson)
 
