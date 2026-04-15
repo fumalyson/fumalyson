@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alyson Bergantini</h1>
-<h3 align="center">Developer Mobiele|FullStack Junior from Brazil</h3>
+<h3 align="center">Developer Mobile | FullStack Junior from Brazil</h3>
 
 - 🔭 I’m currently working at **i4pro**
 
